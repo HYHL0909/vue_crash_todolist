@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>About</h1>
-    <p>This is the TodoList app v1.0.0. It is part of the Vue crash course on Youtube</p>
+    <h1>关于</h1>
+    <p>这是一个 TodoList 应用 v1.0.0.
+      可以添加待办，删除待办，完成待办 </p>
   </div>
 </template>
